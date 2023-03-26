@@ -2,7 +2,7 @@
 
 **Automatización de una tienda online con Cypress**
 
-En este proyecto se realizó la automatización de una tienda online utilizando la herramienta de pruebas automatizadas 🔧 *Cypress*. La tienda en línea utilizada fue <u>Demoblaze</u> 🛍️, la cual cuenta con diferentes funcionalidades como la visualización de productos 🌟, agregar productos al carrito 🛒 y realizar una compra 💰.
+En este proyecto se realizó la automatización de una tienda online utilizando la herramienta de pruebas automatizadas 🔧 *Cypress*. La tienda en línea utilizada fue Demoblaze 🛍️, la cual cuenta con diferentes funcionalidades como la visualización de productos 🌟, agregar productos al carrito 🛒 y realizar una compra 💰.
 
 *Objetivos del proyecto 🎯*
 
