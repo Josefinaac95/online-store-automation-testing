@@ -1,4 +1,4 @@
-# online-store-automation-testing
+# Online-store-automation-testing
 
 **Automatización de una tienda online con Cypress**
 
