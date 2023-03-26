@@ -9,8 +9,11 @@ En este proyecto se realizó la automatización de una tienda online utilizando 
 El objetivo principal del proyecto fue automatizar la prueba de las principales funcionalidades de la tienda online para garantizar su correcto funcionamiento y mejorar la calidad del producto final. Entre los objetivos específicos del proyecto se encuentran:
 
 🔹 Automatizar el proceso de visualización de productos.
+
 🔹 Automatizar el proceso de agregar productos al carrito.
+
 🔹 Automatizar el proceso de realizar una compra.
+
 🔹 Verificar que el proceso de compra se realiza correctamente y que los productos son agregados al carrito y comprados.
 
 *Tecnologías utilizadas 💻*
