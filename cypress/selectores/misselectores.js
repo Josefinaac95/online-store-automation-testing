@@ -55,23 +55,4 @@ class pantallas{
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = new pantallas();
